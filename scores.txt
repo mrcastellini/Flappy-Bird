@@ -1,0 +1,11 @@
+Isaac: 71
+Patty: 3
+Tainá: 6
+Freddie: 11
+Fábio: 40
+Pedro: 41
+Bird: 24
+Bruno: 43
+Thiago: 2
+Lins: 16
+ Bruno: 0
